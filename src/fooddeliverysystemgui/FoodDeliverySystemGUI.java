@@ -15,7 +15,7 @@ public class FoodDeliverySystemGUI extends JFrame {
     public FoodDeliverySystemGUI() {
         setTitle("Food Delivery System");
         setSize(400, 300);
-        setLocationRelativeTo(null); // Center the window
+        setLocationRelativeTo(null); 
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
 
